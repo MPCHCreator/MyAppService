@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My App Movil</string>
+
+    <string-array name="generos">
+        <item></item>>
+        <item>Femenino</item>>
+        <item>Masculino</item>>
+    </string-array>
+    <string name="res">Registro</string>
+    <string name="log">Login</string>
+    <string name="menu">Menu</string>
+</resources>
